@@ -1,0 +1,12 @@
+D:\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\bin\Debug\Ev_U3_INP_Fonda.exe
+D:\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\bin\Debug\Ev_U3_INP_Fonda.pdb
+D:\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\obj\Debug\Ev_U3_INP_Fonda.csprojAssemblyReference.cache
+D:\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\obj\Debug\Ev_U3_INP_Fonda.csproj.CoreCompileInputs.cache
+D:\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\obj\Debug\Ev_U3_INP_Fonda.exe
+D:\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\obj\Debug\Ev_U3_INP_Fonda.pdb
+O:\Otros\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\bin\Debug\Ev_U3_INP_Fonda.exe
+O:\Otros\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\bin\Debug\Ev_U3_INP_Fonda.pdb
+O:\Otros\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\obj\Debug\Ev_U3_INP_Fonda.csprojAssemblyReference.cache
+O:\Otros\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\obj\Debug\Ev_U3_INP_Fonda.csproj.CoreCompileInputs.cache
+O:\Otros\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\obj\Debug\Ev_U3_INP_Fonda.exe
+O:\Otros\C#\Ev_U3_INP_Fonda\Ev_U3_INP_Fonda\obj\Debug\Ev_U3_INP_Fonda.pdb
